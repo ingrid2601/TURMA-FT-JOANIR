@@ -17,7 +17,7 @@ const item = document.querySelector ("#lista");
 item.textContent = linguagens[0] +"-"+ linguagens[1] +"-" + linguagens[2];
 
 
-
+const item = document.querySelector ("#lista");
 console.log(linguagens[0]) 
 console.log(linguagens[1]) 
 console.log(linguagens[2]) 
