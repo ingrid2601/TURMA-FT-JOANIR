@@ -6,3 +6,8 @@ function inserirNome(){
 }
 
 inserirNome();
+
+let linguagens = ["JavaScript", "Python", "C++"];
+console.log (linguagens [0])
+console.log (linguagen [1])
+console.log (linguagens [2])
